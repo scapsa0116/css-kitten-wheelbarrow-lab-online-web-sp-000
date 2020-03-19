@@ -17,11 +17,11 @@
 }
 
 /* Select the image inside the element with an id of basket (using its descendent relationship) */
-#basket img
+
 #ball + img
 
 /*__write_selector_here__*/ 
- img[alt="Kitty 5"] {
+ img[alt="Kitty 5"]#basket img {
   position: absolute;
   z-index: 5;
   top: 291px;
