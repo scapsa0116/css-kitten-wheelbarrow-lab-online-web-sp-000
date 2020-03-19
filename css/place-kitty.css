@@ -1,6 +1,6 @@
 /* Select the image with a class of kitty-1 */
 
-/*__write_selector_here__*/ {
+/*__write_selector_here__*/ kitty-1{
   position: absolute;
   z-index: 1;
   top: 276px;
@@ -34,6 +34,7 @@
   left: 455px;
 }
 
+
 /* Select the image that has an attribute value matching "Kitty 5" (using attribute selector) */
 
 /*__write_selector_here__*/ {
@@ -42,3 +43,4 @@
   top: 217px;
   left: 223px;
 }
+
