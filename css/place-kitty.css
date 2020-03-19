@@ -18,6 +18,7 @@
 
 /* Select the image inside the element with an id of basket (using its descendent relationship) */
 #basket img
+#ball + img
 
 /*__write_selector_here__*/ 
   {
